@@ -1,0 +1,8 @@
+./source_frame/
+./target_frame/
+
+*.mp4
+*.MP4
+*.avi
+
+*.jpg
