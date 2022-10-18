@@ -1,8 +1,7 @@
-./source_frame/
-./target_frame/
+src_f/
+
+__pycache__/
 
 *.mp4
 *.MP4
 *.avi
-
-*.jpg
