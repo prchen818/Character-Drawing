@@ -40,7 +40,7 @@ def draw_chars(chars):
 
 if __name__ == "__main__":
     src = cv2.imread("./test.jpg")
-    tar = equalize(src, (240, 135))
+    tar = equalize(src, (192, 108))
     # print(str(tar))
     img = draw_chars(tar)
     cv2.imshow("test", img)
